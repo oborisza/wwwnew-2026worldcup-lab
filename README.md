@@ -1,2 +1,14 @@
 # wwwnew-2026worldcup-lab
-HTML page archive and documentation
+
+公开页面文件归档
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
